@@ -18,4 +18,6 @@
   de ese punto.
 
 
-* Para reiniciar lo borado por el --hard 
+* Para reiniciar lo borado por el --hard se una el git reflog 
+
+
