@@ -1,0 +1,21 @@
+* Para volver al principio de git 
+ lo primero que se hizo en git solo hay que colocar el ID
+ del primer commit para retroceder 
+
+
+* GIT RESET para volver a los estdso anteriores de la fotografia COMMIT
+
+* Para moverse dentro de las demas ramas de memoria de Git o Fotografias 
+  lo que hacemos es poner el final del hash (Codigo que aparece al final del
+   Git Tree o el codigo completo de cada commit) que aparece dentro del Git Log
+    Con es5to podremos movernos exactamente al momento que querramos del archivo
+    que querrramos
+
+
+* Para eliminar otras fotografias y moverse a otras usamos Git reset --hard 
+ + el codigo unico sea visto desde el git tree de cada una de las fotografias 
+  o desde el git log. Al hacer esto se elimina todo lo que se realizo apartir 
+  de ese punto.
+
+
+* Para reiniciar lo borado por el --hard 
